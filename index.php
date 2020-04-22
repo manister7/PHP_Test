@@ -4,6 +4,7 @@
 
 <h1> This page shows PHP version </h1>
 <?php
+ECHO "Hello"
 	phpinfo();
 ?>
 </body>
